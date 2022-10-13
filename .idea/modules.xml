@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Big-Java-Early-Objects.iml" filepath="$PROJECT_DIR$/Big-Java-Early-Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter01-Introduction/chapter01-Introduction.iml" filepath="$PROJECT_DIR$/chapter01-Introduction/chapter01-Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02-Objects/chapter02-Objects.iml" filepath="$PROJECT_DIR$/chapter02-Objects/chapter02-Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03-Classes/chapter03-Classes.iml" filepath="$PROJECT_DIR$/chapter03-Classes/chapter03-Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04-DataTypes/chapter04-DataTypes.iml" filepath="$PROJECT_DIR$/chapter04-DataTypes/chapter04-DataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05-Decisions/chapter05-Decisions.iml" filepath="$PROJECT_DIR$/chapter05-Decisions/chapter05-Decisions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06-Loops/chapter06-Loops.iml" filepath="$PROJECT_DIR$/chapter06-Loops/chapter06-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter07-Arrays/chapter07-Arrays.iml" filepath="$PROJECT_DIR$/chapter07-Arrays/chapter07-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter08-DesigningClasses/chapter08-DesigningClasses.iml" filepath="$PROJECT_DIR$/chapter08-DesigningClasses/chapter08-DesigningClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter09-Inheritance/chapter09-Inheritance.iml" filepath="$PROJECT_DIR$/chapter09-Inheritance/chapter09-Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-Interfaces/chapter10-Interfaces.iml" filepath="$PROJECT_DIR$/chapter10-Interfaces/chapter10-Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11-IOandExceptions/chapter11-IOandExceptions.iml" filepath="$PROJECT_DIR$/chapter11-IOandExceptions/chapter11-IOandExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter12-OOPDesign/chapter12-OOPDesign.iml" filepath="$PROJECT_DIR$/chapter12-OOPDesign/chapter12-OOPDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13-Recursion/chapter13-Recursion.iml" filepath="$PROJECT_DIR$/chapter13-Recursion/chapter13-Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14-SortAndSearch/chapter14-SortAndSearch.iml" filepath="$PROJECT_DIR$/chapter14-SortAndSearch/chapter14-SortAndSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter15-CollectionsFramework/chapter15-CollectionsFramework.iml" filepath="$PROJECT_DIR$/chapter15-CollectionsFramework/chapter15-CollectionsFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter16-BasicDataStructures/chapter16-BasicDataStructures.iml" filepath="$PROJECT_DIR$/chapter16-BasicDataStructures/chapter16-BasicDataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter17-TreeStructures/chapter17-TreeStructures.iml" filepath="$PROJECT_DIR$/chapter17-TreeStructures/chapter17-TreeStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter18-Generics/chapter18-Generics.iml" filepath="$PROJECT_DIR$/chapter18-Generics/chapter18-Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter19-Streams/chapter19-Streams.iml" filepath="$PROJECT_DIR$/chapter19-Streams/chapter19-Streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20-GUI/chapter20-GUI.iml" filepath="$PROJECT_DIR$/chapter20-GUI/chapter20-GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter21-AdvancedIO/chapter21-AdvancedIO.iml" filepath="$PROJECT_DIR$/chapter21-AdvancedIO/chapter21-AdvancedIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter22-Multithreading/chapter22-Multithreading.iml" filepath="$PROJECT_DIR$/chapter22-Multithreading/chapter22-Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter23-InternetNetworking/chapter23-InternetNetworking.iml" filepath="$PROJECT_DIR$/chapter23-InternetNetworking/chapter23-InternetNetworking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter24-Databases/chapter24-Databases.iml" filepath="$PROJECT_DIR$/chapter24-Databases/chapter24-Databases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter25-XML/chapter25-XML.iml" filepath="$PROJECT_DIR$/chapter25-XML/chapter25-XML.iml" />
+    </modules>
+  </component>
+</project>
